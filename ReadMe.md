@@ -1,4 +1,4 @@
-# Build a Quiz App with HTML, CSS, and JavaScript TANGA!
+# Build a Quiz App with HTML, CSS, and JavaScript TANGA! BOBO!
 
 ![Home Screen](./images/cover.png)
 
